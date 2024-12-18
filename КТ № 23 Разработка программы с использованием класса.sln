@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "КТ № 23 Разработка программы с использованием класса", "КТ № 23 Разработка программы с использованием класса\КТ № 23 Разработка программы с использованием класса.csproj", "{2EE327E5-B0D9-46F9-9BB9-E1EE6F754D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE327E5-B0D9-46F9-9BB9-E1EE6F754D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE327E5-B0D9-46F9-9BB9-E1EE6F754D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE327E5-B0D9-46F9-9BB9-E1EE6F754D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE327E5-B0D9-46F9-9BB9-E1EE6F754D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FD8197C-49A1-491A-B29F-4E1E5CED92F8}
+	EndGlobalSection
+EndGlobal
